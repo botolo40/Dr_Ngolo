@@ -1,0 +1,19 @@
+SITE VITRINE — DR NGOLO PALATA ISAAC
+
+Fichiers :
+- index.html : structure et contenu du site
+- style.css : design responsive (ordinateur, tablette, téléphone)
+- script.js : menu mobile et formulaire WhatsApp
+- assets/enseigne-veterinaire.jpg : photo de l'enseigne fournie
+
+Pour tester :
+1. Gardez les trois fichiers et le dossier assets ensemble.
+2. Ouvrez index.html dans un navigateur.
+3. Pour publier avec GitHub Pages, envoyez tous les éléments dans le dépôt, en conservant cette structure, puis activez GitHub Pages dans Settings > Pages.
+
+À vérifier avant publication :
+- Confirmer que les deux numéros affichés sont toujours corrects.
+- Ajouter l'adresse exacte du cabinet et les horaires si le docteur souhaite les publier.
+- Remplacer la photo de l'enseigne par de belles photos professionnelles du docteur ou de ses activités lorsque disponibles.
+
+Le formulaire ne stocke aucune donnée : il prépare un message et ouvre WhatsApp vers le premier numéro.
